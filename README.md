@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Almir Junior 🔭</h1>
   
+  <a href="https://github.com/AlmirJNR">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TI-TecnicamenteIdiotas&repo=e-commerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HRKings&repo=gitgudcli">
@@ -14,6 +15,7 @@
     <br>
     <img src="https://github-profile-trophy.vercel.app/?username=AlmirJNR&row=1&theme=algolia">
   </div>
+  </a>
 </div>
 <!--
 **AlmirJNR/AlmirJNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
