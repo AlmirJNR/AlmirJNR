@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Almir Junior and here are some informations about me
+![Github Score](https://github-readme-stats.vercel.app/api?username=AlmirJNR&show_icons=true&bg_color=160038&text_color=3DC299&icon_color=3DC299&title_color=FFFFFF&border_radius=2.5rem)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AlmirJNR&layout=compact&show_icons=true&bg_color=160038&text_color=3DC299&icon_color=3DC299&title_color=FFFFFF&border_radius=2.5rem)
 <!--
 **AlmirJNR/AlmirJNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
