@@ -16,6 +16,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AlmirJNR&row=1&theme=algolia">
   </div>
   </a>
+  <br>
+  📫 How to reach me:<br>
+  <a href="https://www.linkedin.com/in/almir-j%C3%BAnior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
 </div>
 <!--
 **AlmirJNR/AlmirJNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
