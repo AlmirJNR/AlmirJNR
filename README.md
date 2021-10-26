@@ -2,10 +2,10 @@
   <h1>Hi there 👋, I'm Almir Junior 🔭</h1>
   <br>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TI-TecnicamenteIdiotas&repo=e-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HRKings&repo=gitgudcli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=AlmirJNR.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=NodeJS-Angular-FullStackApplication">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TI-TecnicamenteIdiotas&repo=e-commerce&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HRKings&repo=gitgudcli&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=AlmirJNR.github.io&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=NodeJS-Angular-FullStackApplication&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
     <br><br>
     <a href="https://github.com/AlmirJNR">
     <div>
