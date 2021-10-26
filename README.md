@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Hi there 👋, I'm Almir Junior 🔭</h1>
-  
-  <a href="https://github.com/AlmirJNR">
+  <br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TI-TecnicamenteIdiotas&repo=e-commerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HRKings&repo=gitgudcli">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=AlmirJNR.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=NodeJS-Angular-FullStackApplication">
     <br><br>
+    <a href="https://github.com/AlmirJNR">
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=AlmirJNR&show_icons=true&bg_color=160038&text_color=3DC299&icon_color=3DC299&title_color=FFFFFF&border_radius=2.5rem">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlmirJNR&layout=compact&show_icons=true&bg_color=160038&text_color=3DC299&icon_color=3DC299&title_color=FFFFFF&border_radius=2.5rem">
