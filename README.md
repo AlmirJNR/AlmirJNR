@@ -2,10 +2,23 @@
   <h1>Hi there 👋, I'm Almir Junior 🔭</h1>
   <br>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TI-TecnicamenteIdiotas&repo=e-commerce&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HRKings&repo=gitgudcli&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=AlmirJNR.github.io&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=NodeJS-Angular-FullStackApplication&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
+    <!---->
+    <a href="https://github.com/TI-TecnicamenteIdiotas/e-commerce">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TI-TecnicamenteIdiotas&repo=e-commerce&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
+    </a>
+    <!---->
+    <a href="https://github.com/HRKings/GitGudCli">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HRKings&repo=gitgudcli&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
+    </a>
+    <!---->
+    <a href="https://github.com/AlmirJNR/AlmirJNR.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=AlmirJNR.github.io&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
+    </a>
+    <!---->
+    <a href="https://github.com/AlmirJNR/NodeJS-Angular-FullStackApplication">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=NodeJS-Angular-FullStackApplication&bg_color=160038&text_color=FFFFFF&icon_color=3DC299&title_color=FFFFFF&border_radius=1.75rem">
+    </a>
+    <!---->
     <br><br>
     <a href="https://github.com/AlmirJNR">
     <div>
@@ -19,7 +32,6 @@
   <br>
   📫 How to reach me:<br>
   <a href="https://www.linkedin.com/in/almir-j%C3%BAnior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
 </div>
 <!--
 **AlmirJNR/AlmirJNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
