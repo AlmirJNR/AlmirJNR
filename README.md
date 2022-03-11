@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <h4>🖥️ OS</h4>
-  <img src="https://img.shields.io/badge/Arch_Linux_|_Endeavour_OS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/KDE-018bff?style=for-the-badge&logo=Kde&logoColor=black">
+  <img src="https://img.shields.io/badge/Arch_Linux_|_Endeavour_OS-803DC0?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/KDE-179AF3?style=for-the-badge&logo=Kde&logoColor=white">
 </div>
 <!--
 **AlmirJNR/AlmirJNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
