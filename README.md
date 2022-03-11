@@ -27,6 +27,7 @@
   <br>
   <h3>🚧 Languages, technologies, services and tools that I use:</h3>
   <h4>👨‍💻 Languages</h4>
+  <img src="https://img.shields.io/badge/Dart-518FD1?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <h4>📚 Databases</h4>
@@ -40,9 +41,10 @@
   <img src="https://camo.githubusercontent.com/20ff8ded288a2aa6c24bc6e47d138bf570e6729468875ffaa2bdd1dc0195abe4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44617461677269702d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d6461746167726970266c6f676f436f6c6f723d626c61636b">
   <img src="https://camo.githubusercontent.com/93ae318132d035a8c007ee1cb244f63a02d87cc0051dfa67323f5bfdc6b222d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245">
   <h4>🧰 Frameworks</h4>
+  <img src="https://img.shields.io/badge/Flutter-518FD1?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <h4>☁️ Cloud</h4>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <h4>🧭 Misc</h4>
@@ -52,7 +54,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <h4>🖥️ OS</h4>
   <img src="https://img.shields.io/badge/Arch_Linux_|_Endeavour_OS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Gnome-018bff?style=for-the-badge&logo=Gnome&logoColor=black">
+  <img src="https://img.shields.io/badge/KDE-018bff?style=for-the-badge&logo=Kde&logoColor=black">
 </div>
 <!--
 **AlmirJNR/AlmirJNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
